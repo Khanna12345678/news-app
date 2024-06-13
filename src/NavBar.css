@@ -1,0 +1,10 @@
+/* NavBar.css */
+
+.navbar-nav .nav-link {
+    transition: background-color 0.3s ease; /* Smooth transition over 0.3 seconds */
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Lighter background color on hover */
+}
+
